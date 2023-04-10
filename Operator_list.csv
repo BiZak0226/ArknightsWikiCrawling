@@ -1,0 +1,278 @@
+,Codename,Class,Branch,Faction,Star
+0,Castle-3,Guard,Dreadnought,Rhodes Island,1
+1,Justice Knight,Sniper,Marksman,Pinus Sylvestris,1
+2,Lancet-2,Medic,Medic,Rhodes Island,1
+3,THRM-EX,Specialist,Executor,Rhodes Island,1
+4,Terra Research Commission,Sniper,Flinger,Rhodes Island,1
+5,U-Official,Supporter,Bard,Rhodes Island,1
+6,12F,Caster,Splash,Rhodes Island,2
+7,Durin,Caster,Core,Op A4,2
+8,Noir Corne,Defender,Protector,Op A4,2
+9,Rangers,Sniper,Marksman,Op A4,2
+10,Yato,Vanguard,Pioneer,Op A4,2
+11,Adnachiel,Sniper,Marksman,Op Reserve A4,3
+12,Ansel,Medic,Medic,Op Reserve A4,3
+13,Beagle,Defender,Protector,Op Reserve A1,3
+14,Cardigan,Defender,Protector,Op Reserve A4,3
+15,Catapult,Sniper,Artilleryman,Op Reserve A6,3
+16,Fang,Vanguard,Pioneer,Op Reserve A1,3
+17,Hibiscus,Medic,Medic,Op Reserve A1,3
+18,Kroos,Sniper,Marksman,Op Reserve A1,3
+19,Lava,Caster,Splash,Op Reserve A1,3
+20,Melantha,Guard,Dreadnought,Op Reserve A4,3
+21,Midnight,Guard,Lord,Op Reserve A6,3
+22,Orchid,Supporter,Decel Binder,Op Reserve A6,3
+23,Plume,Vanguard,Charger,Laterano,3
+24,Popukar,Guard,Centurion,Op Reserve A6,3
+25,Spot,Defender,Guardian,Op Reserve A6,3
+26,Steward,Caster,Core,Op Reserve A4,3
+27,Vanilla,Vanguard,Pioneer,Blacksteel,3
+28,Aciddrop,Sniper,Heavyshooter,Columbia,4
+29,Ambriel,Sniper,Deadeye,Laterano,4
+30,Arene,Guard,Lord,Laterano,4
+31,Beanstalk,Vanguard,Tactician,Columbia,4
+32,Beehunter,Guard,Fighter,Ursus,4
+33,Bubble,Defender,Protector,Sargon,4
+34,Chestnut,Medic,Wandering,Rhodes Island,4
+35,Click,Caster,Mech-Accord,Rhodes Island,4
+36,Conviction,Guard,Dreadnought,Minos,4
+37,Courier,Vanguard,Pioneer,Karlan Trade,4
+38,Cuora,Defender,Protector,Columbia,4
+39,Cutter,Guard,Swordmaster,Columbia,4
+40,Deepcolor,Supporter,Summoner,Aegir,4
+41,Dobermann,Guard,Instructor,Rhodes Island,4
+42,Dur-nar,Defender,Arts Protector,Rhodes Island,4
+43,Earthspirit,Supporter,Decel Binder,Leithanien,4
+44,Estelle,Guard,Centurion,Sargon,4
+45,Ethan,Specialist,Ambusher,Rhodes Island,4
+46,Frostleaf,Guard,Lord,Rhodes Island,4
+47,Gavial,Medic,Medic,Rhodes Island,4
+48,Gitano,Caster,Splash,Sami,4
+49,Gravel,Specialist,Executor,Kazimierz,4
+50,Greyy,Caster,Splash,Bolívar,4
+51,Gummy,Defender,Guardian,Ursus Student Self-Governing Group,4
+52,Haze,Caster,Core,Victoria,4
+53,Humus,Guard,Reaper,Rhodes Island,4
+54,Indigo,Caster,Mystic,Iberia,4
+55,Jackie,Guard,Fighter,Columbia,4
+56,Jaye,Specialist,Merchant,Lungmen,4
+57,Jessica,Sniper,Marksman,Blacksteel,4
+58,Luo Xiaohei,Guard,Lord,Yan,4
+59,Matoimaru,Guard,Dreadnought,Higashi,4
+60,Matterhorn,Defender,Protector,Karlan Trade,4
+61,May,Sniper,Marksman,Victoria,4
+62,Meteor,Sniper,Marksman,Kazimierz,4
+63,Mousse,Guard,Arts Fighter,Victoria,4
+64,Myrrh,Medic,Medic,Rhodes Island,4
+65,Myrtle,Vanguard,Standard Bearer,Rhodes Island,4
+66,Perfumer,Medic,Multi-target,Rhodes Island,4
+67,Pinecone,Sniper,Spreadshooter,Columbia,4
+68,Podenco,Supporter,Decel Binder,Rhodes Island,4
+69,Pudding,Caster,Chain,Columbia,4
+70,Purestream,Medic,Therapist,Yan,4
+71,Quartz,Guard,Crusher,Columbia,4
+72,Roberta,Supporter,Artificer,Columbia,4
+73,Rope,Specialist,Hookmaster,Lungmen,4
+74,Scavenger,Vanguard,Pioneer,S.W.E.E.P.,4
+75,Shaw,Specialist,Push Stroker,Lungmen,4
+76,Shirayuki,Sniper,Artilleryman,Higashi,4
+77,Sussurro,Medic,Medic,Rhodes Island,4
+78,Totter,Sniper,Besieger,Sargon,4
+79,Utage,Guard,Musha,Higashi,4
+80,Vermeil,Sniper,Marksman,Siracusa,4
+81,Vigna,Vanguard,Charger,Columbia,4
+82,Absinthe,Caster,Core,Ursus,5
+83,Akafuyu,Guard,Musha,Higashi,5
+84,Amiya,Caster,Core,Rhodes Island,5
+85,Andreana,Sniper,Deadeye,Abyssal Hunters,5
+86,Aosta,Sniper,Spreadshooter,Chiave's Gang,5
+87,April,Sniper,Marksman,Rim Billiton,5
+88,Asbestos,Defender,Arts Protector,Rim Billiton,5
+89,Ashlock,Defender,Fortress,Pinus Sylvestris,5
+90,Astesia,Guard,Arts Fighter,Columbia,5
+91,Astgenne,Caster,Chain,Rhine Lab,5
+92,Aurora,Defender,Duelist,Karlan Trade,5
+93,Ayerscarpe,Guard,Lord,Rim Billiton,5
+94,Beeswax,Caster,Phalanx,Sargon,5
+95,Bena,Specialist,Dollkeeper,Victoria,5
+96,Bibeak,Guard,Swordmaster,Sami,5
+97,Bison,Defender,Protector,Lungmen,5
+98,Blacknight,Vanguard,Tactician,Rim Billiton,5
+99,Blitz,Defender,Sentinel Protector,Team Rainbow,5
+100,Blue Poison,Sniper,Marksman,Iberia,5
+101,Breeze,Medic,Multi-target,Victoria,5
+102,Broca,Guard,Centurion,Chiave's Gang,5
+103,Cantabile,Vanguard,Agent,Rhodes Island,5
+104,Cement,Defender,Duelist,Rim Billiton,5
+105,Ceylon,Medic,Therapist,Siesta,5
+106,Chiave,Vanguard,Pioneer,Chiave's Gang,5
+107,Cliffheart,Specialist,Hookmaster,Karlan Trade,5
+108,Corroserum,Caster,Blast,Columbia,5
+109,Croissant,Defender,Protector,Penguin Logistics,5
+110,Czerny,Defender,Arts Protector,Leithanien,5
+111,Dagda,Guard,Fighter,Glasgow,5
+112,Elysium,Vanguard,Standard Bearer,Rhodes Island,5
+113,Enforcer,Specialist,Push Stroker,Laterano,5
+114,Erato,Sniper,Besieger,Minos,5
+115,Executor,Sniper,Spreadshooter,Laterano,5
+116,FEater,Specialist,Push Stroker,Lungmen,5
+117,Firewatch,Sniper,Deadeye,Rhodes Island,5
+118,Firewhistle,Defender,Fortress,Rim Billiton,5
+119,Flamebringer,Guard,Dreadnought,Rhodes Island,5
+120,Flint,Guard,Fighter,Sargon,5
+121,Folinic,Medic,Medic,Rhodes Island,5
+122,Franka,Guard,Dreadnought,Blacksteel,5
+123,Frost,Specialist,Trapmaster,Team Rainbow,5
+124,Glaucus,Supporter,Decel Binder,Iberia,5
+125,Grani,Vanguard,Charger,Victoria,5
+126,GreyThroat,Sniper,Marksman,Rhodes Island,5
+127,Greyy the Lightningbearer,Sniper,Flinger,Rhodes Island,5
+128,Harmonie,Caster,Mystic,Dublinn,5
+129,Heavyrain,Defender,Protector,Rhodes Island,5
+130,Heidi,Supporter,Bard,Victoria,5
+131,Hibiscus the Purifier,Medic,Incantation,Rhodes Island,5
+132,Highmore,Guard,Reaper,Iberia,5
+133,Honeyberry,Medic,Wandering,Rim Billiton,5
+134,Hung,Defender,Guardian,Lee's Detective Agency,5
+135,Indra,Guard,Fighter,Glasgow,5
+136,Iris,Caster,Mystic,Victoria,5
+137,Istina,Supporter,Decel Binder,Ursus Student Self-Governing Group,5
+138,Jieyun,Sniper,Artilleryman,Yan,5
+139,Kafka,Specialist,Executor,Columbia,5
+140,Kazemaru,Specialist,Dollkeeper,Higashi,5
+141,Kirara,Specialist,Ambusher,Higashi,5
+142,Kjera,Caster,Mech-Accord,Karlan Trade,5
+143,Kroos the Keen Glint,Sniper,Marksman,Rhodes Island,5
+144,La Pluma,Guard,Reaper,Bolívar,5
+145,Lappland,Guard,Lord,Siracusa,5
+146,Lava the Purgatory,Caster,Splash,Rhodes Island,5
+147,Leizi,Caster,Chain,Yan,5
+148,Leonhardt,Caster,Splash,Rim Billiton,5
+149,Liskarm,Defender,Sentinel Protector,Blacksteel,5
+150,Lunacub,Sniper,Deadeye,Siracusa,5
+151,Manticore,Specialist,Ambusher,Sargon,5
+152,Mayer,Supporter,Summoner,Rhine Lab,5
+153,Meteorite,Sniper,Artilleryman,Rhodes Island,5
+154,Minimalist,Caster,Mech-Accord,Sargon,5
+155,Mint,Caster,Phalanx,Victoria,5
+156,Morgan,Guard,Dreadnought,Glasgow,5
+157,Mr. Nothing,Specialist,Merchant,Yan,5
+158,Mulberry,Medic,Wandering,Yan,5
+159,Nearl,Defender,Guardian,Followers,5
+160,Nightmare,Caster,Core,Victoria,5
+161,Nine-Colored Deer,Supporter,Abjurer,Yan,5
+162,Paprika,Medic,Chain,Rhodes Island,5
+163,Platinum,Sniper,Marksman,Kazimierz,5
+164,Pramanix,Supporter,Hexer,Karlan Trade,5
+165,Projekt Red,Specialist,Executor,S.W.E.E.P.,5
+166,Provence,Sniper,Heavyshooter,Siracusa,5
+167,Proviso,Supporter,Decel Binder,Kazimierz,5
+168,Ptilopsis,Medic,Multi-target,Rhine Lab,5
+169,Puzzle,Vanguard,Agent,Victoria,5
+170,Qanipalaat,Caster,Core,Sami,5
+171,Quercus,Supporter,Abjurer,Rhodes Island,5
+172,Rathalos S Noir Corne,Guard,Musha,Op A4,5
+173,Reed,Vanguard,Charger,Victoria,5
+174,Robin,Specialist,Trapmaster,Columbia,5
+175,Rockrock,Caster,Mech-Accord,Victoria,5
+176,Savage,Guard,Centurion,Rim Billiton,5
+177,Scene,Supporter,Summoner,Sargon,5
+178,Sesa,Sniper,Artilleryman,Sargon,5
+179,Shalem,Defender,Arts Protector,Victoria,5
+180,Shamare,Supporter,Hexer,Siracusa,5
+181,Sideroca,Guard,Arts Fighter,Minos,5
+182,Silence,Medic,Medic,Rhine Lab,5
+183,Skyfire,Caster,Splash,Victoria,5
+184,Snowsant,Specialist,Hookmaster,Lungmen,5
+185,Sora,Supporter,Bard,Penguin Logistics,5
+186,Specter,Guard,Centurion,Abyssal Hunters,5
+187,Swire,Guard,Instructor,Lungmen Guard Department,5
+188,Tachanka,Guard,Swordmaster,Team Rainbow,5
+189,Tequila,Guard,Liberator,Bolívar,5
+190,Texas,Vanguard,Pioneer,Penguin Logistics,5
+191,Toddifons,Sniper,Besieger,Victoria,5
+192,Tomimi,Caster,Core,Sargon,5
+193,Tsukinogi,Supporter,Abjurer,Higashi,5
+194,Tuye,Medic,Medic,Sargon,5
+195,Vulcan,Defender,Juggernaut,Minos,5
+196,Waai Fu,Specialist,Executor,Lee's Detective Agency,5
+197,Warfarin,Medic,Medic,Rhodes Island,5
+198,Whislash,Guard,Instructor,Kazimierz,5
+199,Whisperain,Medic,Therapist,Iberia,5
+200,Wild Mane,Vanguard,Charger,Pinus Sylvestris,5
+201,Wind Chimes,Guard,Crusher,Yan,5
+202,Windflit,Supporter,Artificer,Columbia,5
+203,Zima,Vanguard,Pioneer,Ursus Student Self-Governing Group,5
+204,Aak,Specialist,Geek,Lee's Detective Agency,6
+205,Angelina,Supporter,Decel Binder,Siracusa,6
+206,Archetto,Sniper,Marksman,Laterano,6
+207,Ash,Sniper,Marksman,Team Rainbow,6
+208,Bagpipe,Vanguard,Charger,Victoria,6
+209,Blaze,Guard,Centurion,Elite Op,6
+210,Blemishine,Defender,Guardian,Kazimierz,6
+211,Carnelian,Caster,Phalanx,Leithanien,6
+212,Ceobe,Caster,Core,Rhodes Island,6
+213,Ch'en,Guard,Swordmaster,Lungmen Guard Department,6
+214,Ch'en the Holungday,Sniper,Spreadshooter,Rhodes Island,6
+215,Chongyue,Guard,Fighter,Sui,6
+216,Dorothy,Specialist,Trapmaster,Rhine Lab,6
+217,Dusk,Caster,Splash,Sui,6
+218,Ebenholz,Caster,Mystic,Leithanien,6
+219,Eunectes,Defender,Duelist,Sargon,6
+220,Exusiai,Sniper,Marksman,Penguin Logistics,6
+221,Eyjafjalla,Caster,Core,Leithanien,6
+222,Fartooth,Sniper,Deadeye,Pinus Sylvestris,6
+223,Fiammetta,Sniper,Artilleryman,Laterano,6
+224,Flametail,Vanguard,Pioneer,Pinus Sylvestris,6
+225,Gavial the Invincible,Guard,Centurion,Rhodes Island,6
+226,Gladiia,Specialist,Hookmaster,Abyssal Hunters,6
+227,Gnosis,Supporter,Hexer,Karlan Trade,6
+228,Goldenglow,Caster,Mech-Accord,Victoria,6
+229,Hellagur,Guard,Musha,Ursus,6
+230,Horn,Defender,Fortress,Victoria,6
+231,Hoshiguma,Defender,Protector,Lungmen Guard Department,6
+232,Ifrit,Caster,Blast,Rhine Lab,6
+233,Ines,Vanguard,Agent,Rhodes Island,6
+234,Irene,Guard,Swordmaster,Iberia,6
+235,Kal'tsit,Medic,Medic,Rhodes Island,6
+236,Kirin X Yato,Specialist,Executor,Op A4,6
+237,Lee,Specialist,Merchant,Lee's Detective Agency,6
+238,Lin,Caster,Phalanx,Lungmen,6
+239,Ling,Supporter,Summoner,Sui,6
+240,Lumen,Medic,Therapist,Iberia,6
+241,Magallan,Supporter,Summoner,Rhine Lab,6
+242,Mizuki,Specialist,Ambusher,Higashi,6
+243,Mostima,Caster,Splash,Laterano,6
+244,Mountain,Guard,Fighter,Columbia,6
+245,Mudrock,Defender,Juggernaut,Rhodes Island,6
+246,Młynar,Guard,Liberator,Kazimierz,6
+247,Nearl the Radiant Knight,Guard,Dreadnought,Kazimierz,6
+248,Nian,Defender,Protector,Sui,6
+249,Nightingale,Medic,Multi-target,Followers,6
+250,Pallas,Guard,Instructor,Minos,6
+251,Passenger,Caster,Chain,Sargon,6
+252,Penance,Defender,Juggernaut,Siracusa,6
+253,Phantom,Specialist,Executor,Victoria,6
+254,Pozëmka,Sniper,Heavyshooter,Rhodes Island,6
+255,Qiubai,Guard,Lord,Yan,6
+256,Reed the Flame Shadow,Medic,Incantation,Dublinn,6
+257,Rosa,Sniper,Besieger,Ursus Student Self-Governing Group,6
+258,Rosmontis,Sniper,Flinger,Elite Op,6
+259,Saga,Vanguard,Pioneer,Higashi,6
+260,Saileach,Vanguard,Standard Bearer,Victoria,6
+261,Saria,Defender,Guardian,Rhine Lab,6
+262,Schwarz,Sniper,Heavyshooter,Siesta,6
+263,Shining,Medic,Medic,Followers,6
+264,Siege,Vanguard,Pioneer,Glasgow,6
+265,SilverAsh,Guard,Lord,Karlan Trade,6
+266,Skadi,Guard,Dreadnought,Abyssal Hunters,6
+267,Skadi the Corrupting Heart,Supporter,Bard,Aegir,6
+268,Specter the Unchained,Specialist,Dollkeeper,Abyssal Hunters,6
+269,Stainless,Supporter,Artificer,Victoria,6
+270,Surtr,Guard,Arts Fighter,Rhodes Island,6
+271,Suzuran,Supporter,Decel Binder,Siracusa,6
+272,Texas the Omertosa,Specialist,Executor,Penguin Logistics,6
+273,Thorns,Guard,Lord,Iberia,6
+274,Vigil,Vanguard,Tactician,Siracusa,6
+275,W,Sniper,Artilleryman,Babel,6
+276,Weedy,Specialist,Push Stroker,Rhodes Island,6
